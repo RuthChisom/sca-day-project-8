@@ -1,7 +1,7 @@
 # SCA-30-days-of-code
 Project 8 - Understanding models and their flexibility in data creation
 
-Build an e-learning platform with your own content management system (CMS)
+Build an e-learning platform with your own content management system (CMS). The CMS will allow instructors to create courses and manage their content
 
 <!-- to dump data from the database into the shell -->
 - python manage.py dumpdata courses --indent=2
